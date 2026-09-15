@@ -1,0 +1,89 @@
+Saudações,
+
+Comunicamos a disponibilidade de  material  didático  no 
+Canvas, em Arquivos.
+
+Recomendamos consultar todo  o material,  principalmente 
+para conhecer o programa da  disciplina,  calendário   e 
+outras informações úteis.
+
+A preparação para o semestre está descrita no arquivo
+2026-2_aed1_cronograma.pdf na pasta principal.
+
+A bibliografia recomendada está descrita no arquivo
+2026-2_aed2_bibliografia.pdf  na pasta principal.
+
+O roteiro para tarefas está descrito nos arquivos
+2026-2_aed1_instrucoes.txt  na pasta principal e
+2026-2_aed1_ed_00.pdf       na pasta com guias.
+
+Sugerimos providenciar a preparação das ferramentas 
+para elaborar tarefas.
+
+Há uma lista de links úteis de onde essas ferramentas 
+poderão ser baixadas, caso necessário, na pasta principal
+2026-2_aed1_links.txt
+
+Recomendam-se as leituras prévias dos arquivos abaixo,
+os quais serão abordados nas primeiras aulas:
+
+Exemplo_00_C
+Exemplo_00_CPP
+Exemplos_C
+Lista_00
+Template
+
+Roteiros para tarefas com elaborações de programas
+na pasta Guias
+
+Estudo_Dirigido_00 ou ED_00 - preparação
+Estudo_Dirigido_01 ou ED_01 - primeira tarefa
+
+Favor recorrer às Mensagens no Canvas, se necessário,
+para outros esclarecimentos ou para tirar dúvidas.
+
+Até breve.
+
+T. Cruz
+
+___
+___
+___
+
+2026-1_AED1_G00
+
+2026-1 - ALGORITMOS E ESTRUTURAS DE DADOS I - Guia_00
+
+Consultar o material disponível em Arquivos no Canvas.
+
+A preparação para o semestre está descrita no arquivo
+
+2026-1_aed1_guia_00.pdf  na pasta 2026-1_aed1_guias
+
+Recomendam-se também as leituras dos arquivos
+na pasta principal
+
+2026-1_aed1_links.txt
+2026-1_aed1_instrucoes.txt
+
+Favor recorrer a mensagens no Canvas, se necessário, 
+para outros esclarecimentos ou para tirar dúvidas.
+
+---
+---
+
+2026-1_AED1_E01 - Estudo Dirigido 00
+
+Ver instruções para entregas e enunciados nos arquivos
+
+2026-1_aed1_instrucoes.txt
+2026-1_aed1_ed00.pdf
+
+Todos disponíveis na pasta Arquivos no Canvas
+no arquivo compactado
+
+2026-1_aed1.zip
+
+___
+___
+___
