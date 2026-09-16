@@ -75,14 +75,42 @@ void ex3() {
 
 // 04 - 0714: sequencia decrescente 1/256 1/64 1/16 1/4 1
 void ex4() {
+    int n = IO_readint("Digite a quantidade de valores: ");
+
+    FILE* file = fopen("DADOS0714.txt", "wt");
+    for(int i = n; i >= 0; i--){
+        IO_fprintf(file, "%f\t", (1.0 / pow(4, i)));
+    }
+    fclose(file);
 }
 
-// 05 - 0715: sequencia 1 1/x^2 1/x^4 1/x^6... (usa pow de math.h)
 void ex5() {
+    int n = IO_readint("Digite a quantidade de valores: ");
+    int x = IO_readint("Digite o valor de x: ");
+
+    FILE* file = fopen("DADOS0715.txt", "wt");
+    for(int i = 0; i <= n; i++){
+        IO_fprintf(file, "%f\n", (1.0 / pow(x, i*2)));
+    }
+    fclose(file);
 }
 
 // 06 - 0716: soma dos primeiros n valores do exercicio 05, grava em RESULTADO06.TXT
 void ex6() {
+    int n = IO_readint("Digite a quantidade de valores: ");
+    double soma = 0.0;
+
+    FILE* file15 = fopen("DADOS0715.txt", "");
+    FILE* fileResultado = fopen("RESULTADO06.txt", "wt");
+
+    chars linha = IO_new_chars (STR_SIZE); 
+    strcpy (linha, IO_fread (file15)); 
+    IO_println(linha);
+
+    // while(!feof(file15)){ 
+    //     strcpy (linha, IO_fread (file15)); 
+    //     IO_println(linha);
+    // }
 }
 
 // 07 - 0717: soma dos inversos das potencias do exercicio 04, grava em RESULTADO07.TXT
